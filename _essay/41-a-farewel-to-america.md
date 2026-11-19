@@ -1,10 +1,11 @@
 ---
 title: A Farewel To America. To Mrs. S.W.
 order: 42
-byline: Thomas
+byline: Thomas Ho
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
-
+---## Critical Introduction to "A Farewel To America"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 <pre>
 I.
 
@@ -104,8 +105,7 @@ XI.
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
----## Critical Introduction to "To Maecenas"
-This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+
 
 ## To MAECENAS.
 MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
