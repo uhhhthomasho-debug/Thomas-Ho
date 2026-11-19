@@ -1,0 +1,39 @@
+---
+title: A Rebus, By I.B. 
+order: 43
+byline:
+---
+## A REBUS, BY I. B.
+
+<pre>
+I.
+
+  A BIRD delicious to the taste,
+  On which an army once did feast,
+    Sent by an hand unseen;
+  A creature of the horned race,
+  Which Britain’s royal standards grace;
+    A gem of vivid green;
+
+                 II.
+
+  A town of gaiety and sport,
+  Where beaux and beauteous nymphs resort,
+    And gallantry doth reign;
+  A Dardan hero fam’d of old
+  For youth and beauty, as we’re told,
+    And by a monarch slain;
+
+                 III.
+
+  A peer of popular applause,
+  Who doth our violated laws,
+    And grievances proclaim.
+  Th’ initials show a vanquish’d town,
+  That adds fresh glory and renown
+    To old Britannia’s fame.
+</pre>
+
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
+---

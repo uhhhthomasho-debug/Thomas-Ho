@@ -1,0 +1,36 @@
+---
+title: An Answer To Rebus, By The Author Of These Poems. 
+order: 44
+byline:
+---
+## AN ANSWER TO THE REBUS, BY THE AUTHOR OF THESE POEMS.
+
+<pre>
+THE poet asks, and Phillis can’t refuse
+  To show th’ obedience of the Infant muse.
+  She knows the Quail of most inviting taste
+  Fed Israel’s army in the dreary waste;
+  And what’s on Britain’s royal standard borne,
+  But the tall, graceful, rampant Unicorn?
+  The Emerald with a vivid verdure glows
+  Among the gems which regal crowns compose;
+  Boston’s a town, polite and debonair,
+  To which the beaux and beauteous nymphs repair,
+  Each Helen strikes the mind with sweet surprise,
+  While living lightning flashes from her eyes,
+  See young Euphorbus of the Dardan line
+  By Manelaus’ hand to death resign:
+  The well known peer of popular applause
+  Is C——m zealous to support our laws.
+  Quebec now vanquish’d must obey,
+  She too much annual tribute pay
+  To Britain of immortal fame.
+  And add new glory to her name.
+</pre>
+
+{% include essay/feature/image-gallery.html
+   objectid="item1;item2;item3" %}
+
+<pre>
+F I N I S.
+</pre>

@@ -1,0 +1,11 @@
+---
+title: To The University of Cambridge, in New-England.
+order: 8
+byline: Alzahra
+---
+## To the University of CAMBRIDGE, in NEW-ENGLAND.
+WHILE an intrinsic ardor prompts to write,The muses promise to assist my pen;’Twas not long since I left my native shoreThe land of errors, and Egyptian gloom:Father of mercy, ’twas thy gracious hand Brought me in safety from those dark abodes.
+Students, to you ’tis giv’n to scan the heights Above, to traverse the ethereal space, And mark the systems of revolving worlds. Still more, ye sons of science ye receive The blissful news by messengers from heav’n, How Jesus’ blood for your redemption flows.See him with hands out-stretcht upon the cross;Immense compassion in his bosom glows;He hears revilers, nor resents their scorn:What matchless mercy in the Son of God!When the whole human race by sin had fall’n,He deign’d to die that they might rise again,And share with him in the sublimest skies,Life without death, and glory without end.
+Improve your privileges while they stay,Ye pupils, and each hour redeem, that bearsOr good or bad report of you to heav’n.Let sin, that baneful evil to the soul,By you be shun’d, nor once remit your guard;Suppress the deadly serpent in its egg.Ye blooming plants of human race divine,An Ethiop tells you ’tis your greatest foe;Its transient sweetness turns to endless pain,And in immense perdition sinks the soul.
+
+---
