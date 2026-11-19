@@ -18,7 +18,7 @@ I.
 
   In vain for me the flow’rets rise,
       And boast their gaudy pride,
-  While here beneath the northern skies
+  While here beneath the northern skies 
       I mourn for health deny’d.
 
                  III.
