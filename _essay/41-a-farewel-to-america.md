@@ -85,7 +85,7 @@ I.
 
                  IV.
 
-  Susanna mourns, nor can I bear
+  Susanna mourns, nor can I bear  {% include essay/feature/aside.html text="Susanna, refers to the woman who took in Phillis Wheatley." %} 
       To see the crystal show’r,
   Or mark the tender falling tear
       At sad departure’s hour;
