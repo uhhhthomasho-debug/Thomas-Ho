@@ -121,7 +121,7 @@ I.
                  IX.
 
   To mark the vale where London lies
-      With misty vapours crown’d,
+      With misty vapours crown’d,   
   Which cloud Aurora’s thousand dyes,
       And veil her charms around.
 
