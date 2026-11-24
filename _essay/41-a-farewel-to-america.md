@@ -18,8 +18,6 @@ One might assume that an enslaved woman departing eighteenth-century America wou
 
 ## Greek Mythological Allusions
 
-### Health and Hebe
-
 Greek mythological allusions remain a pervasive feature of Phillis Wheatley’s poetry, demonstrating her classical education while also contributing to the emotional atmosphere of “A Farewell to America.” One particularly important example occurs when Wheatley personifies *Health* as a celestial woman adorned with the mantle of *Hebe*, the Greek goddess associated with youth. The connection between Health and Hebe symbolically unites the virtues of youth, vitality, and physical well-being, all of which become especially significant when considering Wheatley’s earlier references to her declining health. This reference and connection between Health and Hebe is especially significant considering it is located subsequently after the mention of the ocean as Wheatley writes:
 
 > And with astonish’d eyes explore  
@@ -28,8 +26,6 @@ Greek mythological allusions remain a pervasive feature of Phillis Wheatley’s 
 (30-31)
 
 This is significant because it signifies an ambivalent relationship she has between her mournful departure for New England and her anticipated arrival to London. The poem operates initially in the emotional mood of the departure but is juxtaposed with this anticipation of London accompanied with the reintroduction of Health. This is particularly significant from a biographical perspective because Wheatley’s familiarity with classical mythology was developed through the education she received in America. Therefore, even as she prepares to depart from New England, her poetic expressions remain influenced by the intellectual environment that shaped her literary identity.
-
-### Aurora and Phoebus
 
 This imagery is subsequently developed through the introduction of *Aurora*, the Greek goddess of the dawn, and *Phoebus*, associated with the sun. These mythological references establish the physical setting of Wheatley’s journey toward London while simultaneously communicating her anticipation of reaching her destination. Aurora is associated with the morning light surrounding London, although the city remains obscured by mist and clouds. Wheatley then appeals directly to Phoebus, questioning why his chariot moves so slowly and requesting that his rising rays reveal the city.
 
