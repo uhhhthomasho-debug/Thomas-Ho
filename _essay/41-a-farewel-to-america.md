@@ -158,8 +158,56 @@ XI.
     Boston, May 7, 1773.
 </pre>
 
-{% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+
+# Historical and Biographical Context of Phillis Wheatley’s “A Farewel to America”
+
+## Historical Context and Publication
+
+Phillis Wheatley’s “A Farewel to America” reflects upon her experiences in eighteenth-century America and the emotional circumstances surrounding her departure from the country in which she was raised and developed her literary identity as an enslaved African poet. An important historical distinction when interpreting this poem is its date of composition, May 7, 1773, whereas her actual departure for London likely occurred on May 8.
+
+According to Mukhtar Ali Isani in her article “Wheatley’s Departure for London and Her ‘Farewel to America,’” the poem was published in Boston and subsequently received recognition beyond the city through its circulation in various colonial newspapers (123–24). The poem appeared in Boston newspapers on May 10, 13, and 21, with each publication containing slightly different versions of the text. Despite these variations, Isani argues that the publications contained no substantial differences and “presented essentially one version” (123). This distinction is particularly important because it demonstrates how Wheatley’s departure was represented to contemporary American audiences through a relatively consistent poetic expression of farewell.
+
+The poem’s circulation extended beyond Boston, appearing in *The Essex Gazette* in Salem on May 11 and *The Connecticut Courant* in Hartford in the following weeks (Isani 124). Its publication across different colonial newspapers demonstrates the public attention surrounding Wheatley’s literary accomplishments and her departure for Britain. Isani further explains:
+
+> There was even a report that she was bound for England in response to an invitation by the Countess of Huntingdon.
+
+This report reflects the recognition Wheatley had acquired through her poetry and the public curiosity surrounding her journey. Such historical circumstances are significant when considering the emotional atmosphere established throughout “A Farewel to America,” particularly because her departure represented an important transition in both her personal life and literary career. Although Wheatley remained enslaved at the time of her departure, her growing reputation as a poet had already extended beyond the geographical boundaries of New England.
+
+Another important historical consideration is Wheatley’s relationship with Susanna Wheatley, whose family enslaved her and facilitated her education. Wheatley directly references Susanna in the poem, describing how she “mourns” at the prospect of her departure. This expression of grief suggests an emotional attachment between the two women, complicating the relationship between Wheatley’s experiences of enslavement and the personal connections she developed in America.
+
+The inclusion of Susanna is particularly significant because it reinforces the mournful atmosphere of the poem, suggesting that Wheatley’s departure involved leaving behind meaningful personal relationships rather than simply escaping an oppressive environment.
+
+
+Most importantly, the distinction between the poem’s composition on May 7 and Wheatley’s probable departure on May 8 provides an essential framework for interpreting its emotional atmosphere (Isani 123). Rather than understanding the poem as a reflection written during her voyage across the Atlantic, it can be interpreted as an expression of her emotional state immediately before leaving America.
+
+This contextual distinction is particularly relevant to the juxtaposition between her mournful descriptions of New England and her anticipation of arriving in London. Wheatley’s descriptions of the geographical landscape, her relationship with Susanna, and her mythological references to the anticipated arrival in Britain can therefore be understood as expressions of both emotional attachment and uncertainty about her future.
+
+Ultimately, understanding the historical circumstances of the poem’s composition and publication provides a framework through which Wheatley’s conflicting emotions can be interpreted, revealing how her departure represented a transition between the familiarity of New England and the uncertainty of London.
+
+Another crucial detail in Wheatley’s journey to London is that her departure from London back to America was due to her Mistress (Susannah Wheatley) becoming ill. This is written by Sara Dunlap Jackson as she writes in *Letters of Phillis Wheatley and Susanna Wheatley*:
+
+> One letter that indicates that at the time the Poet [referring the Phillis Wheatley Peters] learned of the illness of her mistress and planned to return to America she had not seen the Countess of Huntingdon.
+
+(Jackson 211–12)
+
+Subsequently, Jackson includes the original letters in the article in a passage and Phillis writes:
+
+> It is with pleasure I acquaint your Ladyship of my safe arrival in London after a fine passage of 5 weeks in the Ship London with my young master.
+
+(Jackson 214)
+
+This letter is written on June 27th, much longer than her departure to London. However, health problems were not just affecting Susannah Wheatley, in the final letter written to the Countess of Huntingdon she states that her own health was also a motivation for her return to America.
+
+The letter reads:
+
+> Madam I rec'd with mixed sensations of pleasure & disappiontment your Ladiship's message favored by Mr. Rien acquainting us with your pleasure that my Master & I should wait upon you in So. Wales, delighted with your Ladiship Condescention to me so unworthy of it. Am sorry to acquaint your Ladiship that the Ship is certainly to Sail next Thursday (on) which I must return to America. I long to see my Friend there, (I am) extremely reluctant to go without having first seen your Ladiship. It gives me very great satisfaction to hear of an African so worth to be honored with your Ladiship's approbation & Friendship as him whom you call your Brother. I rejoice with your Ladiship in that Friend of Mental Felicity which you cannot but be possessed of, in the consideration of your exceeding great reward. My great opinion of your Ladiship's goodness, leads to believe, I have an interest in, your most happy hours of communion, with your most indulgent Father and our great & common Benifactor
+>
+> With greatest humility I am most dutifully
+>
+> Your Ladiship's obed't Sevt Phillis Wheatley
+
+(Jackson 215)
+
 
 
 ## To MAECENAS.
