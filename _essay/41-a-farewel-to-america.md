@@ -85,7 +85,7 @@ I.
 
                  IV.
 
-  Susanna mourns, nor can I bear  
+  Susanna mourns, nor can I bear {% include essay/feature/aside.html text="Here is a demo note." %}  
   &nbsp&nbsp&nbsp&nbsp To see the crystal show’r,
   Or mark the tender falling tear
   &nbsp&nbsp&nbsp&nbspAt sad departure’s hour;
