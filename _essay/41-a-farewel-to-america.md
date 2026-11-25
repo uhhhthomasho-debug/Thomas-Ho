@@ -189,4 +189,4 @@ The letter reads:
 
 (Jackson 215)
 
-![Letter from Phillis Wheatley]({{ '/objects/letterpwp(1).jpg' | relative_url }})
+![Letter from Phillis Wheatley]({{ '/objects/letterpwp.jpg' | relative_url }})
