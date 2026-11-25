@@ -188,4 +188,8 @@ The letter reads:
 
 (Jackson 215)
 
-![Letter from Phillis Wheatley]({{ '/objects/letterpwp.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/objects/letter.jpg' | relative_url }}" width="350" alt="Letter from Phillis Wheatley">
+  <br>
+  <em>Phillis Wheatley's letter to Reverend Samuel Hopkins, May 6, 1774. Shows the format style and handwriting of Wheatley's letters </em>
+</p>
