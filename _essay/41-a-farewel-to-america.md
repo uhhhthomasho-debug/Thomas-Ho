@@ -56,7 +56,7 @@ I.
   ADIEU, New-England’s smiling meads,
       Adieu, the flow’ry plain:
   I leave thine op’ning charms, O spring,
-      And tempt the roaring main. {% include essay/feature/aside.html text="Ocean" %} 
+      And tempt the roaring main. {% include essay/feature/aside.html text="(Ocean) referring to the Atlantic Ocean" %} 
 
                  II.
 
