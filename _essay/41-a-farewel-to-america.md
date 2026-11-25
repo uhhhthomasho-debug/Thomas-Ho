@@ -105,7 +105,7 @@ I.
   Lo! Health appears! celestial dame!
       Complacent and serene,
   With Hebe’s{% include essay/feature/aside.html text="Greek Goddess of youth" %}  mantle o’er her Frame,
-      With soul-delighting mein. {% include essay/feature/aside.html text="Emotional and/or psychological portrayal presented through physical appearance" %}
+      With soul-delighting mein. {% include essay/feature/aside.html text="(The look, bearing, manner, or conduct of a person, as showing character, mood, etc) To describe Hebe's physical demeanor as delightful" %}
 
                  IX.
 
