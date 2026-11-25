@@ -152,8 +152,6 @@ XI.
 
 ## Historical Context and Publication
 
-![Historical Atlantic map]({{ '/objects/atlantic1771.jpg' | relative_url }})
-1771 century map of the Atlantic Ocean, 2 years prior to Wheatley's departure. Via John Gerar William De Brahm at Boston Public Libray
 
 Phillis Wheatley’s “A Farewel to America” reflects upon her experiences in eighteenth-century America and the emotional circumstances surrounding her departure from the country in which she was raised and developed her literary identity as an enslaved African poet. An important historical distinction when interpreting this poem is its date of composition, May 7, 1773, whereas her actual departure for London likely occurred on May 8. According to Mukhtar Ali Isani in her article “Wheatley’s Departure for London and Her ‘Farewel to America,’” the poem was published in Boston and subsequently received recognition beyond the city through its circulation in various colonial newspapers (123–24). The poem appeared in Boston newspapers on May 10, 13, and 21, with each publication containing slightly different versions of the text. Despite these variations, Isani argues that the publications contained no substantial differences and “presented essentially one version” (123). This distinction is particularly important because it demonstrates how Wheatley’s departure was represented to contemporary American audiences through a relatively consistent poetic expression of farewell. The poem’s circulation extended beyond Boston, appearing in *The Essex Gazette* in Salem on May 11 and *The Connecticut Courant* in Hartford in the following weeks (Isani 124). Its publication across different colonial newspapers demonstrates the public attention surrounding Wheatley’s literary accomplishments and her departure for Britain. Isani further explains:
 
@@ -185,5 +183,3 @@ The letter reads:
 
 (Jackson 215)
 
-{% include essay/feature/imagegallery.html objectid="letterpwp" %}
-This letter is a letter written from Phillis Wheatley to Reverend Samson Occum in 1774 and displays. This shows how letters would have been written by Phillis 
