@@ -65,95 +65,95 @@ The imagery of a “heav’nly shield” symbolizes spiritual protection, while 
 I.
 
   ADIEU, New-England’s smiling meads,
-  &nbsp&nbsp&nbsp&nbspAdieu, the flow’ry plain:
+      Adieu, the flow’ry plain:
   I leave thine op’ning charms, O spring,
-  &nbsp&nbsp&nbsp&nbspAnd tempt the roaring main.
+      And tempt the roaring main.
 
                  II.
 
   In vain for me the flow’rets rise,
-  &nbsp&nbsp&nbsp&nbspAnd boast their gaudy pride,
+      And boast their gaudy pride,
   While here beneath the northern skies 
-  &nbsp&nbsp&nbsp&nbspI mourn for health deny’d.
+      I mourn for health deny’d.
 
                  III.
 
   Celestial maid of rosy hue,
-  &nbsp&nbsp&nbsp&nbspO let me feel thy reign!
+      O let me feel thy reign!
   I languish till thy face I view,
-  &nbsp&nbsp&nbsp&nbspThy vanish’d joys regain.
+      Thy vanish’d joys regain.
 
                  IV.
 
-  Susanna mourns, nor can I bear {% include essay/feature/aside.html text="Here is a demo note." %}  
-  &nbsp&nbsp&nbsp&nbsp To see the crystal show’r,
+  Susanna mourns, nor can I bear {% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %}  
+      To see the crystal show’r,
   Or mark the tender falling tear
-  &nbsp&nbsp&nbsp&nbspAt sad departure’s hour;
+      At sad departure’s hour;
 
                  V.
 
   Not unregarding can I see
-  &nbsp&nbsp&nbsp&nbspHer soul with grief opprest:
+      Her soul with grief opprest:
   But let no sighs, no groans for me,
-  &nbsp&nbsp&nbsp&nbspSteal from her pensive breast.
+      Steal from her pensive breast.
 
                  VI.
 
   In vain the feather’d warblers sing,
-  &nbsp&nbsp&nbsp&nbspIn vain the garden blooms,
+      In vain the garden blooms,
   And on the bosom of the spring
-  &nbsp&nbsp&nbsp&nbspBreathes out her sweet perfumes.
+      Breathes out her sweet perfumes.
 
                  VII.
 
   While for Britannia’s distant shore
-  &nbsp&nbsp&nbsp&nbspWe sweep the liquid plain,
+      We sweep the liquid plain,
   And with astonish’d eyes explore
-  &nbsp&nbsp&nbsp&nbspThe wide-extended main.
+      The wide-extended main.
 
                  VIII.
 
   Lo! Health appears! celestial dame!
-  &nbsp&nbsp&nbsp&nbspComplacent and serene,
+      Complacent and serene,
   With Hebe’s mantle o’er her Frame,
-  &nbsp&nbsp&nbsp&nbspWith soul-delighting mein.
+      With soul-delighting mein.
 
                  IX.
 
   To mark the vale where London lies
-  &nbsp&nbsp&nbsp&nbspWith misty vapours crown’d,   
+      With misty vapours crown’d,   
   Which cloud Aurora’s thousand dyes,
-  &nbsp&nbsp&nbsp&nbspAnd veil her charms around.
+      And veil her charms around.
 
                  X.
 
   Why, Phoebus, moves thy car so slow?
-  &nbsp&nbsp&nbsp&nbspSo slow thy rising ray?
+      So slow thy rising ray?
   Give us the famous town to view,
-  &nbsp&nbsp&nbsp&nbspThou glorious king of day!
+      Thou glorious king of day!
 </pre>
 
 <pre>
 XI.
 
   For thee, Britannia, I resign
-  &nbsp&nbsp&nbsp&nbspNew-England’s smiling fields;
+      New-England’s smiling fields;
   To view again her charms divine,
-  &nbsp&nbsp&nbsp&nbspWhat joy the prospect yields!
+      What joy the prospect yields!
 
                  XII.
 
   But thou!  Temptation hence away,
-  &nbsp&nbsp&nbsp&nbspWith all thy fatal train,
+      With all thy fatal train,
   Nor once seduce my soul away,
-  &nbsp&nbsp&nbsp&nbspBy thine enchanting strain.
+      By thine enchanting strain.
 
                  XIII.
 
   Thrice happy they, whose heav’nly shield
-  &nbsp&nbsp&nbsp&nbspSecures their souls from harms,
+      Secures their souls from harms,
   And fell Temptation on the field
-  &nbsp&nbsp&nbsp&nbspOf all its pow’r disarms!
+      Of all its pow’r disarms!
 
     Boston, May 7, 1773.
 </pre>
