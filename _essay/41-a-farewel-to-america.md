@@ -4,7 +4,6 @@ order: 42
 byline: Thomas Ho
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
----## Critical Introduction to "A Farewel To America"
 
 # A Literary Reading of Phillis Wheatley Peters’ “A Farewel to America”
 
