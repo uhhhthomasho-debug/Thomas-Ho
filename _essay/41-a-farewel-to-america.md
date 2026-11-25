@@ -181,3 +181,5 @@ The letter reads:
 
 (Jackson 215)
 
+{% include essay/feature/imagegallery.html objectid="letterpwp" %}
+This letter is a letter written from Phillis Wheatley to Reverend Samson Occum in 1774 and displays. This shows how letters would have been written by Phillis 
