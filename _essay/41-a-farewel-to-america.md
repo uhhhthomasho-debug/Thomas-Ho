@@ -195,5 +195,3 @@ The letter reads:
   <br>
   <em>Phillis Wheatley's letter to Reverend Samuel Hopkins, May 6, 1774. Illustrates the format, style, and handwriting of Wheatley's letters.</em>
 </p>
-
-<div align="center">...</div>"Works Cited">
