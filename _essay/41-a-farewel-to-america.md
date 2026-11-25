@@ -193,5 +193,5 @@ The letter reads:
 <p align="center">
   <img src="{{ '/objects/letterpwp.jpg' | relative_url }}" width="350" alt="Letter from Phillis Wheatley">
   <br>
-  <em>Phillis Wheatley's letter to Reverend Samuel Hopkins, May 6, 1774. Illustrates the format, style, and handwriting of Wheatley's letters. Via Boston Public Library.</em>
+  <em>Phillis Wheatley's letter to Reverend Samuel Hopkins, May 6, 1774. Illustrates the format, style, and handwriting of Wheatley's letters.</em>
 </p>
