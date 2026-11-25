@@ -73,7 +73,7 @@ I.
 
                  IV.
 
-  Susanna mourns, nor can I bear {% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %}  
+  Susanna{% include essay/feature/aside.html text="Susanna Wheatley, the lady who named Phillis and owned her." %} mourns, nor can I bear   
       To see the crystal show’r,
   Or mark the tender falling tear
       At sad departure’s hour;
@@ -103,19 +103,19 @@ I.
 
   Lo! Health appears! celestial dame!
       Complacent and serene,
-  With Hebe’s mantle o’er her Frame, {% include essay/feature/aside.html text="Greek Goddess of youth" %} 
-      With soul-delighting mein.
+  With Hebe’s{% include essay/feature/aside.html text="Greek Goddess of youth" %}  mantle o’er her Frame,
+      With soul-delighting mein. {% include essay/feature/aside.html text="Emotional and/or psychological portrayal presented through physical appearance" %}
 
                  IX.
 
   To mark the vale where London lies
       With misty vapours crown’d,   
-  Which cloud Aurora’s thousand dyes, {% include essay/feature/aside.html text="Greek Goddess of the dawn." %} 
+  Which cloud Aurora’s{% include essay/feature/aside.html text="Greek Goddess of the dawn." %} thousand dyes,  
       And veil her charms around.
 
                  X.
 
-  Why, Phoebus, moves thy car so slow? {% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %} 
+  Why, Phoebus{% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %}, moves thy car so slow?  
       So slow thy rising ray?
   Give us the famous town to view,
       Thou glorious king of day!
