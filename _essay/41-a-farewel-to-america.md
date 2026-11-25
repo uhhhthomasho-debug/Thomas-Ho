@@ -115,19 +115,19 @@ I.
 
   Lo! Health appears! celestial dame!
       Complacent and serene,
-  With Hebe’s mantle o’er her Frame,
+  With Hebe’s mantle o’er her Frame, {% include essay/feature/aside.html text="Greek Goddess of youth" %} 
       With soul-delighting mein.
 
                  IX.
 
   To mark the vale where London lies
       With misty vapours crown’d,   
-  Which cloud Aurora’s thousand dyes,
+  Which cloud Aurora’s thousand dyes, {% include essay/feature/aside.html text="Greek Goddess of the dawn." %} 
       And veil her charms around.
 
                  X.
 
-  Why, Phoebus, moves thy car so slow?
+  Why, Phoebus, moves thy car so slow? {% include essay/feature/aside.html text="descriptive word to describe Apollo, Greek God of the sun" %} 
       So slow thy rising ray?
   Give us the famous town to view,
       Thou glorious king of day!
