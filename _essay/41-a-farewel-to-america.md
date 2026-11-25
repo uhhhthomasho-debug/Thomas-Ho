@@ -152,7 +152,12 @@ XI.
 
 ## Historical Context and Publication
 
-![Historical map of the Atlantic Ocean]({{ '/objects/map.jpg' | relative_url }}) 
+![Historical map of the Atlantic Ocean]({{ '/objects/map.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/objects/map.jpg' | relative_url }}" width="500">
+  <br>
+  <em>Hydrographical Map of the Atlantic Ocean, William Gerard de Brahm, 1771.</em>
+</p>
 
 Phillis Wheatley’s “A Farewel to America” reflects upon her experiences in eighteenth-century America and the emotional circumstances surrounding her departure from the country in which she was raised and developed her literary identity as an enslaved African poet. An important historical distinction when interpreting this poem is its date of composition, May 7, 1773, whereas her actual departure for London likely occurred on May 8. According to Mukhtar Ali Isani in her article “Wheatley’s Departure for London and Her ‘Farewel to America,’” the poem was published in Boston and subsequently received recognition beyond the city through its circulation in various colonial newspapers (123–24). The poem appeared in Boston newspapers on May 10, 13, and 21, with each publication containing slightly different versions of the text. Despite these variations, Isani argues that the publications contained no substantial differences and “presented essentially one version” (123). This distinction is particularly important because it demonstrates how Wheatley’s departure was represented to contemporary American audiences through a relatively consistent poetic expression of farewell. The poem’s circulation extended beyond Boston, appearing in *The Essex Gazette* in Salem on May 11 and *The Connecticut Courant* in Hartford in the following weeks (Isani 124). Its publication across different colonial newspapers demonstrates the public attention surrounding Wheatley’s literary accomplishments and her departure for Britain. Isani further explains:
 
