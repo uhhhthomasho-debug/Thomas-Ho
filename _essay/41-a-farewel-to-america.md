@@ -3,7 +3,6 @@ title: A Farewel To America. To Mrs. S.W.
 order: 42
 byline: Thomas Ho
 ---
-## A FAREWEL TO AMERICA. TO MRS. S. W.
 
 # A Literary Reading of Phillis Wheatley Peters’ “A Farewel to America”
 
